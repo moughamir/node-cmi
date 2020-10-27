@@ -1,0 +1,5 @@
+**/node_modules/*
+!.eslintrc.js
+*.test.tmp.js
+coverage/
+.nyc_output/

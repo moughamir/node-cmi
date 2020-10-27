@@ -1,0 +1,32 @@
+{
+  "name": "node-cmi",
+  "version": "1.0.0",
+  "description": "CMI (centre monétique interbancaire ) Payment gateway helpers for NodeJS",
+  "author": "Youssef AITNASSER <aitnasser@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^9.0.1",
+    "@commitlint/config-conventional": "^9.0.1",
+    "chai": "^4.2.0",
+    "cz-conventional-changelog": "^3.2.0",
+    "eslint": "^7.3.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.22.0",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "mocha": "^8.0.1",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1",
+    "release-it": "^13.6.4",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2",
+    "watch": "^1.0.2"
+  }
+}

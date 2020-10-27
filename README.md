@@ -1,2 +1,2 @@
 # node-cmi
-A NodeJS module to interface with CMI Payment Gateway.
+A NodeJS module to interface with Moroccan CMI Payment Gateway.
