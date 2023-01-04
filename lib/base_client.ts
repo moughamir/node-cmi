@@ -14,7 +14,7 @@ export class BaseClient implements ClientInterface {
     
   }
   validateConfig(_requireOpts: RequireOptions) {
-    throw new Error("Method not implemented.");
+    throw new Error("Config validator not implemented.");
   }
   getDefaultOpts: () => {
     storetype: "3D_PAY_HOSTING",
@@ -38,5 +38,5 @@ export class BaseClient implements ClientInterface {
 }
 
 function microtime() {
-  throw new Error("Function not implemented.");
+  throw new Error("microtime not implemented.");
 }
